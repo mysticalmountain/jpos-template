@@ -2,8 +2,6 @@
 
 Clone this project in order to create your own jPOS based application.
 
-We recommend that you install [Gradle](http://gradle.org/) in order to build your jPOS projects, but if you don't have it installed, you can use the Gradle wrapper scripts `gradlew` and `gradlew.bat`. In the following instructions, when we say `gradle` we really mean either your installed Gradle or one of the wrapper scripts (depending if you are on Unix or DOS based platforms).
-
 ### Build an eclipse project
 ````
 gradle eclipse
